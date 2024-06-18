@@ -3,7 +3,7 @@ import Booklist from './Booklist';
 // import Login from './Login';
 import { useNavigate } from 'react-router-dom';
 // import { Navbar, Container } from 'react-bootstrap';
-import './Home.scss';
+import './styles.scss';
 
 const Home = ({ booksData }) => {
   const navigate = useNavigate();

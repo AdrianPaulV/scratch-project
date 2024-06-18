@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Add.scss';
+import './styles.scss';
 
 const Add = ({ addNewBook }) => {
   const [newTitle, setNewTitle] = useState('');

@@ -1,0 +1,62 @@
+//home
+#homeHeader {
+  text-align: center;
+}
+
+.header-list {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+.header-list li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+//bookitem
+.book-box {
+  color: black;
+  background: #f3f3f3;
+  padding: 2rem;
+  border: 1px solid lightgray;
+  box-shadow: 1px 1px 5px rgba(22, 22, 22, 0.915);
+  display: flex;
+}
+
+.book-box img {
+  width: 80px;
+  height: 100px;
+  display: block;
+}
+
+// add
+.add-box {
+  color: black;
+  background: #f3f3f3;
+  padding: 2rem;
+  border: 1px solid lightgray;
+  box-shadow: 1px 1px 5px rgba(22, 22, 22, 0.915);
+}
+
+.add-box button {
+  margin-top: 5px;
+}
+
+// login
+.login-box {
+  color: black;
+  background: #f3f3f3;
+  padding: 2rem;
+  border: 1px solid lightgray;
+  box-shadow: 1px 1px 5px rgba(22, 22, 22, 0.915);
+}
+
+// signup
+.signup-box {
+  color: black;
+  background: #f3f3f3;
+  padding: 2rem;
+  border: 1px solid lightgray;
+  box-shadow: 1px 1px 5px rgba(22, 22, 22, 0.915);
+}
